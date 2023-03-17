@@ -9,5 +9,6 @@ div {
 	background-color:white;
 }
 .align {
-	text-align:right
+	text-align:right;
+	font-style:italic;
 }
